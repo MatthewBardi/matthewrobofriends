@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/matthewrobofriends/static/css/main.89ab09e6.chunk.css",
+    "main.js": "/matthewrobofriends/static/js/main.eafcd10a.chunk.js",
+    "main.js.map": "/matthewrobofriends/static/js/main.eafcd10a.chunk.js.map",
+    "runtime-main.js": "/matthewrobofriends/static/js/runtime-main.47b3a30e.js",
+    "runtime-main.js.map": "/matthewrobofriends/static/js/runtime-main.47b3a30e.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/matthewrobofriends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.d1223193.chunk.js": "/matthewrobofriends/static/js/2.d1223193.chunk.js",
+    "static/js/2.d1223193.chunk.js.map": "/matthewrobofriends/static/js/2.d1223193.chunk.js.map",
+    "static/js/3.fc6091a3.chunk.js": "/matthewrobofriends/static/js/3.fc6091a3.chunk.js",
+    "static/js/3.fc6091a3.chunk.js.map": "/matthewrobofriends/static/js/3.fc6091a3.chunk.js.map",
+    "index.html": "/matthewrobofriends/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/matthewrobofriends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.89ab09e6.chunk.css.map": "/matthewrobofriends/static/css/main.89ab09e6.chunk.css.map",
+    "static/js/2.d1223193.chunk.js.LICENSE.txt": "/matthewrobofriends/static/js/2.d1223193.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/matthewrobofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47b3a30e.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.d1223193.chunk.js",
+    "static/css/main.89ab09e6.chunk.css",
+    "static/js/main.eafcd10a.chunk.js"
+  ]
+}
